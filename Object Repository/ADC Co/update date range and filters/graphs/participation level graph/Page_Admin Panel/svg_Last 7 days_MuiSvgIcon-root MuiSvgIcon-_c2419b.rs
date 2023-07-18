@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Last 7 days_MuiSvgIcon-root MuiSvgIcon-_c2419b</name>
+   <tag></tag>
+   <elementGuidId>b8ed6c42-bdb2-4dc9-b70e-aada38225299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 days'])[5]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>21e35b75-01cb-4cfc-9c35-12c7f0fd5244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium muiltr-i4bv87-MuiSvgIcon-root</value>
+      <webElementGuid>2aae714c-cc2e-4cd6-bd8b-28308dde1cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>616da144-e327-4dc9-93ba-9511970222bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>837ce210-1710-4dff-98d0-f84e372e9c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>be2d7ecd-206d-4a7d-ae5c-7f3182c77899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ExpandMoreIcon</value>
+      <webElementGuid>713a4093-ca7d-47c3-98c2-06123d9bbff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item muiltr-cl4e5k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 muiltr-1y88gue-MuiGrid-root&quot;]/div[@class=&quot;muiltr-1gab4fd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container block-header muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 chart-filters muiltr-1xw68qh-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-7ei35h-MuiGrid-root&quot;]/div[@class=&quot;filters muiltr-0&quot;]/div[@class=&quot;muiltr-1p0se7u&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium filter-btn muiltr-1bq52xl-MuiButtonBase-root-MuiButton-root&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium muiltr-i4bv87-MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>70642798-23d4-4a0f-9929-71d82cdeebbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 days'])[5]/following::*[name()='svg'][2]</value>
+      <webElementGuid>237b95e5-d7d7-4f52-a537-86691c04cd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing data of'])[3]/following::*[name()='svg'][3]</value>
+      <webElementGuid>47cd4875-8c62-4f6d-9c4e-a4012349e792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

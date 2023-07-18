@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Count of stop cards</name>
+   <tag></tag>
+   <elementGuidId>c2031511-7a6e-4ae5-8441-16fbfbdfb7be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Count of stop cards']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>text.highcharts-axis-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0ef8e1bc-0d4f-4445-af59-b8dd6362e21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>265.5</value>
+      <webElementGuid>f595f966-d448-446d-b951-9c33b8d7bfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>770a9b63-5158-4967-8f3f-9435b8abe60d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text-anchor</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>a365d367-ffb4-476a-b37f-a71e50c5e9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(0,0)</value>
+      <webElementGuid>4c0f8c49-18e9-46d1-9e2f-535e05183a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-axis-title</value>
+      <webElementGuid>4d5d5a37-3ea7-4cc4-9b73-17f45660bdfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>356</value>
+      <webElementGuid>8b20460e-cc1b-445c-9aca-c2030292ddde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Count of stop cards</value>
+      <webElementGuid>63387045-6e73-4dc2-9b6f-f0019bc8818d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-133vui9-13&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;highcharts-axis highcharts-yaxis&quot;]/text[@class=&quot;highcharts-axis-title&quot;]</value>
+      <webElementGuid>03484d1d-f9db-4ba6-b3c2-80c4ee8d1b51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Count of stop cards']/parent::*</value>
+      <webElementGuid>62f70946-7483-47bd-a3b4-222d7eae4866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Count of stop cards' or . = 'Count of stop cards')]</value>
+      <webElementGuid>5ff201ff-0b9d-4304-8042-3910b47c35af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

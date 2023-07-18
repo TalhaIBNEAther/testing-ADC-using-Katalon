@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>landing page should be Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc90d4a4-de7c-4957-8a73-c58b98b0802b</testCaseGuid>
+</TestCaseEntity>

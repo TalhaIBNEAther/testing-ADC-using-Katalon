@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mark all as read</name>
+   <tag></tag>
+   <elementGuidId>ac6e573f-9a28-4348-aeb2-c4c038f11db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='basic-menu']/div[3]/ul/li/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-caption.muiltr-10ejw3t-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6afb68f7-3ab3-4df8-9499-1571f1c24d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-caption muiltr-10ejw3t-MuiTypography-root</value>
+      <webElementGuid>7b95b886-ec9b-449f-a3d6-a52881b7739f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mark all as read</value>
+      <webElementGuid>10f2fa10-e4a1-46a8-af2c-a2996b92a809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic-menu&quot;)/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper muiltr-wwomeb-MuiPaper-root-MuiMenu-paper-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list muiltr-6hp17o-MuiList-root-MuiMenu-list&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-divider MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-divider muiltr-x1wzt1-MuiButtonBase-root-MuiMenuItem-root&quot;]/div[@class=&quot;MuiBox-root muiltr-1ufrzn0&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-caption muiltr-10ejw3t-MuiTypography-root&quot;]</value>
+      <webElementGuid>c83add00-70f6-4dd6-bde9-be049c67f6e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='basic-menu']/div[3]/ul/li/div/span</value>
+      <webElementGuid>389a7903-0d3c-4f87-bebc-4141cd4ad889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 days'])[5]/following::span[1]</value>
+      <webElementGuid>c464b0a2-301a-469a-aa75-13840158fedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing data of'])[3]/following::span[3]</value>
+      <webElementGuid>15fc20a8-1326-459a-87cb-d177e6fe7bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mark all as read']/parent::*</value>
+      <webElementGuid>b81d6160-c4bf-491c-8da2-dd17aa1ca409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/div/span</value>
+      <webElementGuid>1e54f36d-c7ea-46ad-9fd8-bc25e5647f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mark all as read' or . = 'Mark all as read')]</value>
+      <webElementGuid>3ce6fd94-b6d9-4094-b818-2c8b5bb66873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

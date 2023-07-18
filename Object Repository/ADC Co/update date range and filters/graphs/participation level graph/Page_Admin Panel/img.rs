@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>30b80cae-fd30-4124-9dfa-c5373002e4da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/ul/li/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemIcon-root.muiltr-cveggr-MuiListItemIcon-root > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>153c7d08-0045-4110-81dd-0c558e69243b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/src/assets/nav/dashboard.svg</value>
+      <webElementGuid>3f666741-73ee-4dbf-ab61-3be025119e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;muiltr-196ktxy&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked muiltr-1vdp1uf-MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft muiltr-9pp834-MuiPaper-root-MuiDrawer-paper&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/ul[@class=&quot;MuiList-root MuiList-padding muiltr-h4y409-MuiList-root&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters drawer-listitem muiltr-q719ri-MuiListItem-root&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters muiltr-1vyta1i-MuiButtonBase-root-MuiListItemButton-root&quot;]/div[@class=&quot;MuiListItemIcon-root muiltr-cveggr-MuiListItemIcon-root&quot;]/img[1]</value>
+      <webElementGuid>f4f63ccd-46ee-43c4-a00a-4a2ef9cd3fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/ul/li/div/div/img</value>
+      <webElementGuid>e874782b-b002-45d9-be92-6e91b12b00c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/img</value>
+      <webElementGuid>d1e3b63d-aeaa-4927-a67e-75715cb35ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/src/assets/nav/dashboard.svg']</value>
+      <webElementGuid>5cfbd1da-2b90-43c3-9c00-812afc7b6cdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

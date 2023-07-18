@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Chemical_MuiSvgIcon-root MuiSvgIcon-fon_06c928</name>
+   <tag></tag>
+   <elementGuidId>3d5204ad-6836-4129-9ea5-17cc3fbe080f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemical'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconFilledColorDefault.muiltr-i4bv87-MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>26ba2ca2-89ed-456c-95ff-491350074923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiChip-deleteIcon MuiChip-deleteIconMedium MuiChip-deleteIconColorDefault MuiChip-deleteIconFilledColorDefault muiltr-i4bv87-MuiSvgIcon-root</value>
+      <webElementGuid>4aada917-065d-4afa-8df3-249c29a46770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9894eb88-5a17-4360-92dd-dcf09a24d1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6fe4481a-3ba6-470f-bce0-fdc8141e5226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>85106caa-c3ba-454b-ba34-df4bf888c48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>CancelIcon</value>
+      <webElementGuid>6d97dfe1-5fc3-4fba-83ac-dd731ff494e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item muiltr-cl4e5k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 muiltr-1y88gue-MuiGrid-root&quot;]/div[@class=&quot;muiltr-1gab4fd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container block-header muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muiltr-35sb16-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 muiltr-1y88gue-MuiGrid-root&quot;]/div[@class=&quot;selected-filters muiltr-fdceny&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-deletable MuiChip-deletableColorDefault MuiChip-filledDefault muiltr-vxcg16-MuiButtonBase-root-MuiChip-root&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiChip-deleteIcon MuiChip-deleteIconMedium MuiChip-deleteIconColorDefault MuiChip-deleteIconFilledColorDefault muiltr-i4bv87-MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>e0f6097e-a5ba-4be3-88ce-11763fc1b2e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemical'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>21c19563-7bdc-4217-a366-ae57b5827c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 10.3.3'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>35a5de28-25bd-4a01-bdc3-3872549c1f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Values'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ad045c44-aab3-43c9-9ea2-4b4a3b0f81c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

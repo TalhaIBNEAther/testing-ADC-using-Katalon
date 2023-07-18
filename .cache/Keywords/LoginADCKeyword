@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "469C845194CA49C9C36EB4C5CFEA7D18",
+  "keywordClasses": [
+    {
+      "name": "LoginADCKeyword",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

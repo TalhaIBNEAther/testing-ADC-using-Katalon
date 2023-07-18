@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Filters</name>
+   <tag></tag>
+   <elementGuidId>718ea8cc-deda-4272-94bb-b0c2fe610e83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[3]/div/div/div/div[2]/div/div/div/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-container.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-sm-4.chart-filters.muiltr-1xw68qh-MuiGrid-root > div.MuiGrid-root.MuiGrid-item.muiltr-7ei35h-MuiGrid-root > div.filters.muiltr-0 > div.muiltr-1p0se7u > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.filter-btn.muiltr-1bq52xl-MuiButtonBase-root-MuiButton-root > p.MuiTypography-root.MuiTypography-body2.muiltr-wj48ds-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f52bd173-98f1-45e0-8657-bca6db744b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 muiltr-wj48ds-MuiTypography-root</value>
+      <webElementGuid>89a4bd8e-4bcc-4381-a9c5-7f125dd64450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>1493ee16-de0b-406d-890b-e3127c360eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item muiltr-cl4e5k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 muiltr-1y88gue-MuiGrid-root&quot;]/div[@class=&quot;muiltr-1gab4fd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container block-header muiltr-qm8zkw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 chart-filters muiltr-1xw68qh-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-7ei35h-MuiGrid-root&quot;]/div[@class=&quot;filters muiltr-0&quot;]/div[@class=&quot;muiltr-1p0se7u&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium filter-btn muiltr-1bq52xl-MuiButtonBase-root-MuiButton-root&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 muiltr-wj48ds-MuiTypography-root&quot;]</value>
+      <webElementGuid>644cf589-dbbd-4e36-a2ec-4459c9deaab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[3]/div/div/div/div[2]/div/div/div/button/p</value>
+      <webElementGuid>7b51a76b-ea7a-4692-bcb8-9573e7aaf840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 days'])[5]/following::p[1]</value>
+      <webElementGuid>e104cd1d-c6d7-47a2-b0ea-98c74fe27866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing data of'])[3]/following::p[1]</value>
+      <webElementGuid>457942a1-e42a-4900-935e-8093a6724714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div/button/p</value>
+      <webElementGuid>dd3591bd-e692-4b34-b180-d240d721a267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Filters' or . = 'Filters')]</value>
+      <webElementGuid>ed2d58d2-d5ff-49b6-be25-0bacca65f03c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

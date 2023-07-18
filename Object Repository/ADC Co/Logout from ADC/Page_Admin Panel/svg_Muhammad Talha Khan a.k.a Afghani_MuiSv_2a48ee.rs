@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Muhammad Talha Khan a.k.a Afghani_MuiSv_2a48ee</name>
+   <tag></tag>
+   <elementGuidId>d616b808-5eda-41c4-91d8-5e508cff0f11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Talha Khan a.k.a Afghani'])[1]//*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.menu-btn__arrow-icon.muiltr-2eed5x-MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>30237788-8895-4089-bdaf-014017f7c496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium menu-btn__arrow-icon muiltr-2eed5x-MuiSvgIcon-root</value>
+      <webElementGuid>2364bc18-db1d-4c0f-b9be-d82833926e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d1a01387-3042-4fa1-ad33-0778d007e4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1332ebf2-6500-4edc-b944-f2e6cb3d09e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>1ab926c9-60a7-471a-97b0-2f9534fbad52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>KeyboardArrowDownIcon</value>
+      <webElementGuid>fb43faee-63eb-4bea-a25b-3390446da948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;utility-bar MuiBox-root muiltr-0&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed app-bar mui-fixed muiltr-ii4kgp-MuiPaper-root-MuiAppBar-root&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular tool-bar muiltr-rugrh9-MuiToolbar-root&quot;]/div[@class=&quot;MuiBox-root muiltr-k008qs&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/button[@id=&quot;basic-button&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium menu-btn__arrow-icon muiltr-2eed5x-MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>2f0f6e03-a6ea-498e-8aa1-beaf41514971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Talha Khan a.k.a Afghani'])[1]//*[name()='svg'][2]</value>
+      <webElementGuid>ce970967-44f8-444d-a15b-14c4ea1b57d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5b24cdcd-df63-4f6d-a207-b206c0e715c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>59a1530c-0fa1-4a22-80e0-c3690371306a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

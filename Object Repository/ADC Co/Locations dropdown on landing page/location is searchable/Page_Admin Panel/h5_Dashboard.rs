@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>d9bcdd00-c9d2-4c20-8b12-b0f663efb3f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.MuiTypography-root.MuiTypography-h5.header-title.muiltr-9jpeor-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>3ec4b79d-6140-45ed-a310-4f4e55d6a6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 header-title muiltr-9jpeor-MuiTypography-root</value>
+      <webElementGuid>58db40b9-669b-43c3-9a54-ab0c2703224c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>cd13a965-3ec6-4b0e-aadd-af3f70d4ed84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;page-header MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/h5[@class=&quot;MuiTypography-root MuiTypography-h5 header-title muiltr-9jpeor-MuiTypography-root&quot;]</value>
+      <webElementGuid>299f6e0b-96bd-4930-aa12-75fb3f0dda6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div/div/h5</value>
+      <webElementGuid>88ec838f-2d4b-48e3-9793-ffc8fc31215d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::h5[1]</value>
+      <webElementGuid>89f7ae19-a5f0-4346-b0b0-f89fa418307e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Talha Khan a.k.a Afghani'])[1]/following::h5[1]</value>
+      <webElementGuid>e1e09453-c0f9-46cd-bdfb-86b4d157e2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a7d2b159-5da5-4f07-bdd0-f1a45cd1aa2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing data of'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a19fd04b-c8a1-49f5-b96f-8873297d77c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>7c60c4e9-9c93-48ac-889c-ade6d858f4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>3307067c-dfb2-4763-b658-cb0c0ccbc15b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last 7 days_MuiBackdrop-root MuiBackdro_f20361</name>
+   <tag></tag>
+   <elementGuidId>2a7beced-690e-4f1d-8b30-ed4f3939e135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBackdrop-root.MuiBackdrop-invisible.MuiModal-backdrop.muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64862117-8fcd-4fc3-bbb0-be97374b0cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>79a79e42-2634-4d6b-b9b4-bd5eb7f5e661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop</value>
+      <webElementGuid>ada1ef7c-a6aa-4cb6-9f2c-06ea81f87d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root dropdown-menus filters-panel MuiModal-root muiltr-itg9sh-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop&quot;]</value>
+      <webElementGuid>98915053-97dc-413f-adeb-7f0a3f1cf9d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>44bf80b5-29da-4c06-83cd-40d9c938b416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

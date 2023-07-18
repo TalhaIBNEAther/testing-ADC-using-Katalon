@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last 7 days_MuiBackdrop-root MuiBackdro_f20361</name>
+   <tag></tag>
+   <elementGuidId>627c855d-6fad-491a-9933-2fbe9efb2a54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBackdrop-root.MuiBackdrop-invisible.MuiModal-backdrop.muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fade-menu']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3377ead2-5867-4933-9851-a7677676016f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a4efcdbc-3d87-4827-8e1f-d071d3ed4c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop</value>
+      <webElementGuid>7d9fa621-3378-4ab3-b6ca-d7167580803f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fade-menu&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-g3hgs1-MuiBackdrop-root-MuiModal-backdrop&quot;]</value>
+      <webElementGuid>e16e9e41-7fab-4159-a25e-f29358b06d8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fade-menu']/div</value>
+      <webElementGuid>0ddfca19-03aa-4d8a-bae3-2eeb1a1c23f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>76a583aa-50bf-4259-bc68-f8938688f6ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

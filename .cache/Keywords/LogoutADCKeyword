@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AD58CD4A07AD91B72637F396828C696B",
+  "keywordClasses": [
+    {
+      "name": "LogoutADCKeyword",
+      "keywordMethods": [
+        {
+          "name": "logout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

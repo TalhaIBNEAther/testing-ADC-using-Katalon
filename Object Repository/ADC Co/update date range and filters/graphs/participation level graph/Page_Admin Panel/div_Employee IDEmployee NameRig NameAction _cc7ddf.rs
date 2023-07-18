@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee IDEmployee NameRig NameAction _cc7ddf</name>
+   <tag></tag>
+   <elementGuidId>559bacc4-5264-441d-90eb-925a527f9f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.muiltr-wj80xj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>256024ba-4306-4eb1-8080-c5f0ea36e1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>muiltr-wj80xj</value>
+      <webElementGuid>f4db1c27-9b46-4d7f-89d8-7e234ce3d4ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee IDEmployee NameRig NameAction TypeHazardReported Date and TimeWork RelatednessArea/LocationPossible LossBody Parts InvolvedInvolved Party57usmansindbadPositiveChemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related17 Mar 2023, 11:30 amWork Related, Non Work RelatedRig Floor, Monkey Board, Cellar, Sub Base Area, Draw-Works, Engines, Welding shop, Electrical Workshop, Office, Camp, Flare Lines / Pit, Cement Tanks, Mixing Hopper, Mud Tanks, CatwalkInjury, Illness, Vehicle Accident, Equipment Damage, Environment Damage, Company Reputation, Well integrity lossHead, Arms, Hand And Fingers, Legs and feet, torso, Eyes, Face, Not ApplicableCompany A, Contractors, Client</value>
+      <webElementGuid>2e004b9b-7080-4001-b614-5543b7027b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;muiltr-15n222f&quot;]/div[@class=&quot;details-panel-parent MuiBox-root muiltr-0&quot;]/div[@class=&quot;muiltr-wj80xj&quot;]</value>
+      <webElementGuid>796d0c6e-edb5-46dc-86fa-07824b344dff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div</value>
+      <webElementGuid>b34709a7-d62f-4cbb-b125-c0d29584c504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/following::div[2]</value>
+      <webElementGuid>a3b28cc4-888c-4fa1-8d8d-63b5d9834728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Face'])[1]/following::div[2]</value>
+      <webElementGuid>38228618-ff12-4da8-8eae-af82684965b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>847bb151-0db2-421a-a95d-bdc3b3db176d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee IDEmployee NameRig NameAction TypeHazardReported Date and TimeWork RelatednessArea/LocationPossible LossBody Parts InvolvedInvolved Party57usmansindbadPositiveChemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related17 Mar 2023, 11:30 amWork Related, Non Work RelatedRig Floor, Monkey Board, Cellar, Sub Base Area, Draw-Works, Engines, Welding shop, Electrical Workshop, Office, Camp, Flare Lines / Pit, Cement Tanks, Mixing Hopper, Mud Tanks, CatwalkInjury, Illness, Vehicle Accident, Equipment Damage, Environment Damage, Company Reputation, Well integrity lossHead, Arms, Hand And Fingers, Legs and feet, torso, Eyes, Face, Not ApplicableCompany A, Contractors, Client' or . = 'Employee IDEmployee NameRig NameAction TypeHazardReported Date and TimeWork RelatednessArea/LocationPossible LossBody Parts InvolvedInvolved Party57usmansindbadPositiveChemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related17 Mar 2023, 11:30 amWork Related, Non Work RelatedRig Floor, Monkey Board, Cellar, Sub Base Area, Draw-Works, Engines, Welding shop, Electrical Workshop, Office, Camp, Flare Lines / Pit, Cement Tanks, Mixing Hopper, Mud Tanks, CatwalkInjury, Illness, Vehicle Accident, Equipment Damage, Environment Damage, Company Reputation, Well integrity lossHead, Arms, Hand And Fingers, Legs and feet, torso, Eyes, Face, Not ApplicableCompany A, Contractors, Client')]</value>
+      <webElementGuid>a75e1a93-9c1c-43c1-82da-5c54a0cf9973</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

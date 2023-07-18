@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate back button's functionality</description>
+   <name>back button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b670081d-0965-485f-bf4c-065e2252b512</testCaseGuid>
+</TestCaseEntity>

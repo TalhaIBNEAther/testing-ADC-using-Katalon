@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Closed After Due Date</name>
+   <tag></tag>
+   <elementGuidId>fc531706-3492-4493-b5e3-b2d452ce17d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>g.highcharts-legend-item.highcharts-pie-series.highcharts-color-1 > text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Closed After Due Date']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8c776479-5d46-4ace-bdd9-33d21dc47b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>9de245c1-db0a-4282-a456-45380bdf693e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>60a8ddc8-48ef-4eb8-899e-cb74c82bf593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text-anchor</name>
+      <type>Main</type>
+      <value>start</value>
+      <webElementGuid>0db8a0b8-902a-4304-85b6-c6894face040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>714cd00d-1177-460f-b883-bfb0b0305d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Closed After Due Date</value>
+      <webElementGuid>15f40e7a-6a27-4967-890d-2fafd3c6ce79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-siw67g4-4&quot;)/svg[@class=&quot;highcharts-root highcharts-legend-point-active&quot;]/g[@class=&quot;highcharts-legend highcharts-no-tooltip&quot;]/g[1]/g[1]/g[@class=&quot;highcharts-legend-item highcharts-pie-series highcharts-color-1&quot;]/text[1]</value>
+      <webElementGuid>9d1dd787-9f38-42f4-9596-f4e7cca8b064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Closed After Due Date']/parent::*</value>
+      <webElementGuid>2370f2a1-37b4-47b6-827f-1f97bfddeaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Closed After Due Date' or . = 'Closed After Due Date')]</value>
+      <webElementGuid>fe53806e-f946-474d-86c3-109fa5f598b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

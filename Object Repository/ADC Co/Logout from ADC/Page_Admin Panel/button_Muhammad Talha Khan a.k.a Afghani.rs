@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Muhammad Talha Khan a.k.a Afghani</name>
+   <tag></tag>
+   <elementGuidId>7b619caa-08da-4853-80a6-6f44df2d74a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='basic-button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.muiltr-0 > #basic-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a436a657-7b36-4290-80f3-06e1658c9c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium tool-bar__menu-btn muiltr-okb8w1-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>b77e0061-caef-42c3-90c5-0401867bacd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ab8b925c-45bf-48bc-b046-e13c0f3d1a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>256617d1-ce3d-4b26-9693-188c34409c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>basic-button</value>
+      <webElementGuid>005f5dd3-e748-4373-b43e-28cbeb121ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>071ac60e-2d3e-4eb0-ae29-e323631aec01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Muhammad Talha Khan a.k.a Afghani</value>
+      <webElementGuid>0f2cb5ce-8fcf-486c-b8fd-6cdfbe7ea809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;utility-bar MuiBox-root muiltr-0&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed app-bar mui-fixed muiltr-ii4kgp-MuiPaper-root-MuiAppBar-root&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular tool-bar muiltr-rugrh9-MuiToolbar-root&quot;]/div[@class=&quot;MuiBox-root muiltr-k008qs&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/button[@id=&quot;basic-button&quot;]</value>
+      <webElementGuid>449e7c69-8ee0-46d1-b580-df04dc931a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='basic-button'])[2]</value>
+      <webElementGuid>82784ee2-740a-40bd-a4f9-0c3299432755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/header/div/div[2]/div/button</value>
+      <webElementGuid>2b16a187-00e8-4db9-a102-09c706110000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[2]</value>
+      <webElementGuid>dcdf11f4-ba66-4af9-bada-e025b560a341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::button[1]</value>
+      <webElementGuid>aabb40d8-63ac-40f8-992e-bdf85845d47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::button[2]</value>
+      <webElementGuid>63c1ecc6-7a27-45b0-8e77-0cc68847f25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Muhammad Talha Khan a.k.a Afghani']/parent::*</value>
+      <webElementGuid>ca2b4331-9798-49f8-928c-af6f96e4603d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>b72f3077-25b5-46f4-bffd-c10dcd43059f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'basic-button' and (text() = 'Muhammad Talha Khan a.k.a Afghani' or . = 'Muhammad Talha Khan a.k.a Afghani')]</value>
+      <webElementGuid>0f2ae4ee-dbb8-48d5-91c7-de7a625dbd01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

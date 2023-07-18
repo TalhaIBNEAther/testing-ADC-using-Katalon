@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Closed Actions</name>
+   <tag></tag>
+   <elementGuidId>12667d75-1d09-4b3e-98b9-44bf8d98a863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>g.highcharts-legend-item.highcharts-pie-series.highcharts-color-0 > text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Closed Actions']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>996aecae-2a8e-4dc8-a06d-4197175b1382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>732db9b3-889b-4ed2-b435-f404809795a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text-anchor</name>
+      <type>Main</type>
+      <value>start</value>
+      <webElementGuid>bef739a4-bcb9-4b7b-b858-2914abf038ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>42078d6a-c27e-49bc-9db7-218516f8bbc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>60e57dfa-8ae7-4fba-90a4-9b014d36834b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Closed Actions</value>
+      <webElementGuid>a6da498d-003c-45fe-9d9e-1e5740d23840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-qizi2bw-5&quot;)/svg[@class=&quot;highcharts-root highcharts-legend-point-active&quot;]/g[@class=&quot;highcharts-legend highcharts-no-tooltip&quot;]/g[1]/g[1]/g[@class=&quot;highcharts-legend-item highcharts-pie-series highcharts-color-0&quot;]/text[1]</value>
+      <webElementGuid>930d69d4-242a-4143-93f2-ef7778b1e83e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Closed Actions']/parent::*</value>
+      <webElementGuid>df49b130-5bda-46ce-b518-211e0daef7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Closed Actions' or . = 'Closed Actions')]</value>
+      <webElementGuid>9a799e55-af3a-498f-8522-070310168779</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

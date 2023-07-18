@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Employee ID</name>
+   <tag></tag>
+   <elementGuidId>ed53c753-368c-4209-888b-b9e4d815ef67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div/div[2]/form/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiInputLabel-standard.MuiFormLabel-colorPrimary.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiInputLabel-standard.muiltr-153ayp2-MuiFormLabel-root-MuiInputLabel-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a060c355-b29d-4241-8773-a846f741eabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-standard MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-standard muiltr-153ayp2-MuiFormLabel-root-MuiInputLabel-root</value>
+      <webElementGuid>91f18002-8071-4f02-902a-1d9c7143fdc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-shrink</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ebb3b0be-6447-46e0-99d6-1f0f8dec5a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Custom-input</value>
+      <webElementGuid>f93c3671-ba15-4915-a4e6-4d3404e277a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee ID</value>
+      <webElementGuid>9e9fcf96-cd00-46c1-b2ba-59538482bde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;muiltr-1928xwl&quot;]/main[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg auth-container muiltr-9a012d-MuiContainer-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container onboarding-grid muiltr-1ubopdy-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 muiltr-1y88gue-MuiGrid-root&quot;]/form[@class=&quot;MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth muiltr-ungsta-MuiFormControl-root&quot;]/label[@class=&quot;MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-standard MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-standard muiltr-153ayp2-MuiFormLabel-root-MuiInputLabel-root&quot;]</value>
+      <webElementGuid>9b317321-ddec-4c2f-ac48-85a4a7f3de2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/form/div/label</value>
+      <webElementGuid>d6a6c6be-e991-4bad-abb3-b0e97539fcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::label[1]</value>
+      <webElementGuid>b09ef669-ef97-45e4-a87e-a071b2382104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::label[1]</value>
+      <webElementGuid>1eb98d22-a1e3-4000-97bd-308da974164e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::label[1]</value>
+      <webElementGuid>0f9d8553-d218-4a97-aa1a-ba58c6574cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employee ID']/parent::*</value>
+      <webElementGuid>8d599f7e-9841-428c-8561-d8b17dd483e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>9aa5fab1-2bb3-4380-aee1-8c46e80d09e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Employee ID' or . = 'Employee ID')]</value>
+      <webElementGuid>56984a79-a63c-47d8-b6ff-e3849867feea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

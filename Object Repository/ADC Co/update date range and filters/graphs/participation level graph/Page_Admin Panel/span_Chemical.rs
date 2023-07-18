@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chemical</name>
+   <tag></tag>
+   <elementGuidId>175faa3f-ba81-464b-b919-646c9a82b52e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-body1.MuiFormControlLabel-label.muiltr-yf0hj1-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aec0ef8a-03fb-4999-a9cf-1d2813e4f128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label muiltr-yf0hj1-MuiTypography-root</value>
+      <webElementGuid>17d6fad6-2ab7-426e-bcb5-3b36512508cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chemical</value>
+      <webElementGuid>5f37d02d-3e4f-4490-b18e-b94a442b6704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root dropdown-menus filters-panel MuiModal-root muiltr-itg9sh-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper muiltr-wwomeb-MuiPaper-root-MuiMenu-paper-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list muiltr-6hp17o-MuiList-root-MuiMenu-list&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters muiltr-uyhvtt-MuiButtonBase-root-MuiMenuItem-root&quot;]/div[@class=&quot;muiltr-1yxnjc1&quot;]/ul[@class=&quot;MuiList-root MuiList-padding charts filters-items muiltr-h4y409-MuiList-root&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding muiltr-1evxpc3-MuiListItem-root&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd muiltr-j204z7-MuiFormControlLabel-root&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label muiltr-yf0hj1-MuiTypography-root&quot;]</value>
+      <webElementGuid>4f0c774f-bf65-44fb-a4b6-e99c5fbaa931</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::span[3]</value>
+      <webElementGuid>e0efb6c0-40e3-4502-892e-1abf4688252d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[4]</value>
+      <webElementGuid>5f37061a-c3fe-4b93-9953-a904bac0512f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::span[3]</value>
+      <webElementGuid>46bf492e-75f0-4759-b47f-dd9fb905e7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driving/Road'])[1]/preceding::span[6]</value>
+      <webElementGuid>50c58757-9462-40d4-8b9b-409c2651e89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chemical']/parent::*</value>
+      <webElementGuid>5a348e4d-29ec-4a5f-8e9b-4bb997aec7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>16897b1a-3816-4d77-8a2a-da8e6d305df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chemical' or . = 'Chemical')]</value>
+      <webElementGuid>12066732-f815-43f7-9058-3109786239cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

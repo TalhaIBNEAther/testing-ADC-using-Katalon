@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_In Process Actions</name>
+   <tag></tag>
+   <elementGuidId>460b1054-7ec6-4f07-bd0c-841782b6c1b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>g.highcharts-legend-item.highcharts-pie-series.highcharts-color-2 > text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='In Process Actions']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6b9915f7-90f6-491c-ab4a-36b4963c3d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>fdbaef90-457e-45dc-ad26-b886d7320493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>d5d09ad8-534e-42f2-99c1-e82dcf33a0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text-anchor</name>
+      <type>Main</type>
+      <value>start</value>
+      <webElementGuid>dca0d92d-b15e-495d-b955-d263b902119e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>d0a81b40-64b9-46c6-bea1-95d8203bb262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Process Actions</value>
+      <webElementGuid>163b840b-a5a7-415d-b598-866fbf533d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-qizi2bw-5&quot;)/svg[@class=&quot;highcharts-root highcharts-legend-point-active&quot;]/g[@class=&quot;highcharts-legend highcharts-no-tooltip&quot;]/g[1]/g[1]/g[@class=&quot;highcharts-legend-item highcharts-pie-series highcharts-color-2&quot;]/text[1]</value>
+      <webElementGuid>75781357-e963-4bab-8bee-e6f999b6df8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In Process Actions']/parent::*</value>
+      <webElementGuid>af21e820-e513-4c9c-b6ba-f5d60b0e7cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'In Process Actions' or . = 'In Process Actions')]</value>
+      <webElementGuid>be411e4b-c05d-4a3b-9276-eb9f6a9805fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

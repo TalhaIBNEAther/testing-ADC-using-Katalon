@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add new comment_MuiInputBase-root MuiFi_3925bb</name>
+   <tag></tag>
+   <elementGuidId>5fef71d9-764b-4dbb-9e6a-8976b0139990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[2]/div[2]/div/div[11]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputBase-root.MuiFilledInput-root.MuiFilledInput-underline.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-multiline.muiltr-1tjy5yd-MuiInputBase-root-MuiFilledInput-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffabfdf7-081b-4181-9218-00064d64fa29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-root MuiFilledInput-root MuiFilledInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-multiline muiltr-1tjy5yd-MuiInputBase-root-MuiFilledInput-root</value>
+      <webElementGuid>43ef3472-932c-4001-951e-f58329d5b1fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;muiltr-15n222f&quot;]/div[@class=&quot;details-panel-parent MuiBox-root muiltr-0&quot;]/div[@class=&quot;open muiltr-135jycc&quot;]/div[@class=&quot;details-panel-body MuiBox-root muiltr-0&quot;]/div[@class=&quot;content-area MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root muiltr-1rat4h0-MuiFormControl-root-MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root MuiFilledInput-root MuiFilledInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-multiline muiltr-1tjy5yd-MuiInputBase-root-MuiFilledInput-root&quot;]</value>
+      <webElementGuid>9a02fee2-db42-4a1c-a930-bd5289a251cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[2]/div[2]/div/div[11]/div</value>
+      <webElementGuid>9e201282-22cf-4af8-882a-6b22c3c01b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new comment'])[1]/following::div[1]</value>
+      <webElementGuid>e96e3741-e80d-46fb-ba2a-9f6c9f68578c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments'])[1]/following::div[5]</value>
+      <webElementGuid>4aa172ce-98f5-457c-8acd-9221b9212529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[1]</value>
+      <webElementGuid>4a50795a-5c7c-434a-b6a3-93d650332462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[1]/preceding::div[3]</value>
+      <webElementGuid>e099f783-d4cb-417b-9f9f-9f7bcd01c98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div</value>
+      <webElementGuid>487e3f71-5c17-40a8-8b2d-4bb5f176584b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

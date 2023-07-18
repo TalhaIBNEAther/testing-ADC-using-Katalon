@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Action</name>
+   <tag></tag>
+   <elementGuidId>bf16db64-8274-4d5b-8ecb-7baf28c41072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5fe359b-5eb9-40af-a91c-0e886e51371f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/actions?id=a376dcd2-a17d-43ec-a776-7bf4631e5944</value>
+      <webElementGuid>9df4ba2f-1ca0-4f9e-ad27-9d6b2d59d0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Action</value>
+      <webElementGuid>f186f03b-e05f-4d97-a186-014fa61cea8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;muiltr-15n222f&quot;]/div[@class=&quot;details-panel-parent MuiBox-root muiltr-0&quot;]/div[@class=&quot;open muiltr-1sh83yj&quot;]/div[@class=&quot;details-panel-header MuiBox-root muiltr-0&quot;]/a[1]</value>
+      <webElementGuid>c06e1c16-bb54-4d4a-9b57-190205321dc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div[2]/div/a</value>
+      <webElementGuid>33c93f3f-7e4c-4afa-96c1-29e71f0ae91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Action')]</value>
+      <webElementGuid>f2b896bc-b8a3-43ae-89b4-3da920098cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observation Report Details'])[1]/following::a[1]</value>
+      <webElementGuid>65152662-0909-4e2f-bd10-5de5837cc57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company A, Contractors, Client'])[1]/following::a[1]</value>
+      <webElementGuid>31536a75-5e99-4fb6-8363-ea94ad0592d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAFE ACTS OBSERVED'])[1]/preceding::a[1]</value>
+      <webElementGuid>d1b66021-7a04-4d21-8abe-fe7e9ac57cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIONS TAKEN TO ENCOURAGE CONTINUED SAFE PERFORMANCE'])[1]/preceding::a[1]</value>
+      <webElementGuid>4569071e-5a73-403f-8362-5dab4bfc6d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Action']/parent::*</value>
+      <webElementGuid>9f1321eb-fa08-4085-8315-82f7bdc72711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/actions?id=a376dcd2-a17d-43ec-a776-7bf4631e5944')]</value>
+      <webElementGuid>3f5643d1-dceb-4bca-bd0b-d4e8b5c82c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>cfd0d53d-61db-4b72-a654-bd5332f3d5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/actions?id=a376dcd2-a17d-43ec-a776-7bf4631e5944' and (text() = 'View Action' or . = 'View Action')]</value>
+      <webElementGuid>5a71b40e-39b1-41ce-bd84-c024b490fb3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

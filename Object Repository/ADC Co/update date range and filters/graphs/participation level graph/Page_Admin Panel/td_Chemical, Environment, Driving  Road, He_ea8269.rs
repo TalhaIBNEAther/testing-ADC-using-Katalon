@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Chemical, Environment, Driving  Road, He_ea8269</name>
+   <tag></tag>
+   <elementGuidId>ede9541d-84a2-4ff6-aadb-52038bd76950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div/div/table/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b9ea1c51-e30b-4238-a48d-4f86eb1e68f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium muiltr-1i8e1vn-MuiTableCell-root</value>
+      <webElementGuid>8076eb1c-2590-44b1-ace2-253419c93766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>c2e3d4b1-0707-44a6-bd69-44ac63cce5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related</value>
+      <webElementGuid>b6fed709-1fea-4e51-9ab0-612f082068b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;page-wrapper muiltr-1u3gw72&quot;]/div[@class=&quot;muiltr-15n222f&quot;]/div[@class=&quot;details-panel-parent MuiBox-root muiltr-0&quot;]/div[@class=&quot;muiltr-wj80xj&quot;]/div[@class=&quot;MuiTableContainer-root muiltr-rorn0c-MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader muiltr-xn82ks-MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root muiltr-apqrd9-MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root tr  muiltr-1bviax2-MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium muiltr-1i8e1vn-MuiTableCell-root&quot;]</value>
+      <webElementGuid>021cfb2d-13a1-4f36-88a1-0a0ae250a032</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div[2]/div[2]/div/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>718486c0-f1fe-4d9f-96d2-054c62632305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Positive'])[1]/following::td[1]</value>
+      <webElementGuid>9af20863-fff2-4d9a-a803-78e927e519de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sindbad'])[1]/following::td[2]</value>
+      <webElementGuid>dc9e59d0-eeba-4217-abb2-316d9edaa445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Related, Non Work Related'])[1]/preceding::td[2]</value>
+      <webElementGuid>d2a9427f-302f-4c9d-a0c6-7483d2d7078e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Head, Arms, Hand And Fingers, Legs and feet, torso, Eyes, Face, Not Applicable'])[1]/preceding::td[5]</value>
+      <webElementGuid>a12eb290-9be7-4930-8fed-1922e5b4f6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related']/parent::*</value>
+      <webElementGuid>eeebdd06-681f-4c74-9f5a-3298e22d3f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>f9e7e35d-3950-4e9a-b926-69df3c069554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Chemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related' or . = 'Chemical, Environment, Driving / Road, Health, Lifting, Lifting-Crane Related, Lifting-Forklift Related, Heavy Machine, Hand Tools, Stepping / Handling, Housekeeping, PPE Related, Security, Welding, Fire, Electrical, Pressure, Mess / Food / Catering Related , Well Control, Biohazard, Air Transport, DROPS, Explosives, IT Related')]</value>
+      <webElementGuid>0c60525a-2bad-4cca-8828-8259abbff088</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
