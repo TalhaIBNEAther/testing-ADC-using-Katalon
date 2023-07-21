@@ -41,6 +41,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landi
 
 WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location selectable from dropdown/Page_Admin Panel/li_navi mumbai maharashtra'))
 
+WebUI.takeScreenshotAsCheckpoint('Location selected MUMBAI')
+
 WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location selectable from dropdown/Page_Admin Panel/svg_Dashboard_MuiSvgIcon-root MuiSvgIcon-fo_2ae6f6'))
 
 WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location selectable from dropdown/Page_Admin Panel/svg_Dashboard_MuiSvgIcon-root MuiSvgIcon-fo_1d5994_1'))

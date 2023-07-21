@@ -17,25 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+not_run: WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://adc-admin.techwards.org/')
+not_run: WebUI.navigateToUrl('https://adc-admin.techwards.org/')
 
-WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Employee ID_empId'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Employee ID_empId'), 
     'emp010')
 
-WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/button_Next'))
+not_run: WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/button_Next'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Password_newPassword'), 
+not_run: WebUI.setEncryptedText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Password_newPassword'), 
     'Dpxl7+fjsHaPnN5Bh9tNqA==')
 
-WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/button_Submit'))
+not_run: WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/button_Submit'))
 
 WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Dashboard_rt'), 
     '              ')
 
 WebUI.sendKeys(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/input_Dashboard_rt'), 
     Keys.chord(Keys.ENTER))
+
+WebUI.takeScreenshotAsCheckpoint('empty spaces in locations dropdown field')
 
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/empty spaces in Location field/Page_Admin Panel/div_No options'), 
     'No options')

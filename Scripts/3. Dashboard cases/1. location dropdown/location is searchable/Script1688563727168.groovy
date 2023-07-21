@@ -25,6 +25,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Locations dropd
 WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     'dha')
 
+WebUI.takeScreenshotAsCheckpoint('location set to DHA')
+
 WebUI.sendKeys(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     Keys.chord(Keys.ENTER))
 
@@ -35,6 +37,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landi
 
 WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     'navi mumbai maharashtra')
+
+WebUI.takeScreenshotAsCheckpoint('Location set to MUMBAI')
 
 WebUI.sendKeys(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     Keys.chord(Keys.ENTER))
@@ -47,6 +51,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landi
 
 WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     'clifton')
+
+WebUI.takeScreenshotAsCheckpoint('Location set to CLIFTON')
 
 WebUI.sendKeys(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/location is searchable/Page_Admin Panel/input_Dashboard_rt'), 
     Keys.chord(Keys.ENTER))

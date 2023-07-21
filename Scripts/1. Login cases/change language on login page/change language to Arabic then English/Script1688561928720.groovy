@@ -28,6 +28,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/change language
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/change language on login page/Page_Admin Panel/h1_'), 
     'تسجيل الدخول')
 
+WebUI.takeScreenshotAsCheckpoint('Arabic')
+
 WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/change language on login page/Page_Admin Panel/button_'))
 
 WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/change language on login page/Page_Admin Panel/li_English'))

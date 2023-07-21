@@ -21,12 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://adc-admin.techwards.org/')
 
-WebUI.setText(findTestObject('Object Repository/ADC Co/Login Cases/incorrect id/Page_Admin Panel/input_Employee ID_empId'), '958rfv')
+WebUI.setText(findTestObject('Object Repository/ADC Co/Login Cases/incorrect id/Page_Admin Panel/input_Employee ID_empId'), 
+    '958rfv')
 
 WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/incorrect id/Page_Admin Panel/button_Next'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/incorrect id/Page_Admin Panel/div_Unauthorized User does not exist'), 
     'Unauthorized: User does not exist')
+
+WebUI.takeScreenshotAsCheckpoint('invalid ID')
 
 WebUI.closeBrowser()
 

@@ -33,5 +33,7 @@ not_run: WebUI.click(findTestObject('Object Repository/ADC Co/Landing page/landi
 
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Landing page/landing page Dashboard/h5_Dashboard'), 'Dashboard')
 
+WebUI.takeScreenshotAsCheckpoint('landing page Dashboard')
+
 not_run: WebUI.closeBrowser()
 

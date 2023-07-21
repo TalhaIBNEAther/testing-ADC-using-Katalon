@@ -22,6 +22,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Landing page/open notificat
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Landing page/open notifications and mark all as read/Page_Admin Panel/span_Mark all as read'), 
     'Mark all as read')
 
+WebUI.takeScreenshotAsCheckpoint('Notifications dropdown opened')
+
 WebUI.click(findTestObject('Object Repository/ADC Co/Landing page/open notifications and mark all as read/Page_Admin Panel/span_Mark all as read'))
 
 WebUI.takeScreenshotAsCheckpoint('All_notifications_read')

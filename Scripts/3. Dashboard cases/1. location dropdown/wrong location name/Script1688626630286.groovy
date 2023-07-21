@@ -34,6 +34,8 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Locations dropdown on landi
 WebUI.setText(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/wrong location name/Page_Admin Panel/input_Dashboard_rt'), 
     'wrong location name')
 
+WebUI.takeScreenshotAsCheckpoint('location not in list')
+
 WebUI.sendKeys(findTestObject('Object Repository/ADC Co/Locations dropdown on landing page/wrong location name/Page_Admin Panel/input_Dashboard_rt'), 
     Keys.chord(Keys.ENTER))
 

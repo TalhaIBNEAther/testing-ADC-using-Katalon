@@ -31,5 +31,7 @@ WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/valid ID but no
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/valid ID but no password/Page_Admin Panel/div_The employee ID andor password is invalid'), 
     'The employee ID and/or password is invalid.')
 
+WebUI.takeScreenshotAsCheckpoint('no password detected')
+
 WebUI.closeBrowser()
 

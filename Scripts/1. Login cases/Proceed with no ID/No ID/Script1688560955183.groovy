@@ -23,7 +23,10 @@ WebUI.navigateToUrl('https://adc-admin.techwards.org/')
 
 WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/No ID/Page_Admin Panel/button_Next'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/No ID/Page_Admin Panel/div_Invalid Employee ID'), 'Invalid Employee ID')
+WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/No ID/Page_Admin Panel/div_Invalid Employee ID'), 
+    'Invalid Employee ID')
+
+WebUI.takeScreenshotAsCheckpoint('no ID detected')
 
 WebUI.closeBrowser()
 

@@ -36,5 +36,7 @@ WebUI.rightClick(findTestObject('Object Repository/ADC Co/Login Cases/correct id
 WebUI.verifyElementText(findTestObject('Object Repository/ADC Co/Login Cases/correct id wrong password/Page_Admin Panel/div_The employee ID andor password is invalid'), 
     'The employee ID and/or password is invalid')
 
+WebUI.takeScreenshotAsCheckpoint('wrong id or password')
+
 WebUI.closeBrowser()
 

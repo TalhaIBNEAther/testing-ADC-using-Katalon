@@ -17,24 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://adc-admin.techwards.org/')
-
-WebUI.setText(findTestObject('Object Repository/ADC Co/Login Cases/correct id and password/input_Employee ID_empId'), 'emp010')
-
-WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/correct id and password/button_Next'))
-
-WebUI.takeScreenshotAsCheckpoint('next button on login screen')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/ADC Co/Login Cases/correct id and password/input_Password_newPassword'), 
-    'Dpxl7+fjsHaPnN5Bh9tNqA==')
-
-WebUI.click(findTestObject('Object Repository/ADC Co/Login Cases/correct id and password/button_Submit'))
-
-WebUI.takeScreenshotAsCheckpoint('submit button on login')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/ADC Co/Login Cases/correct id and password/img'), 0)
-
-WebUI.takeScreenshotAsCheckpoint('submit_on_password_page')
-
